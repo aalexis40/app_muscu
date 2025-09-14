@@ -15,7 +15,7 @@ Application React Native pour gérer des **séances** et **exercices** de muscul
 ## Installation
 
 ```bash
-git clone https://github.com/TON_USERNAME/mon-app-fitness.git
+git clone https://github.com/aalexis40/app_muscu.git
 cd mon-app-fitness
 npm install
 npx expo start
